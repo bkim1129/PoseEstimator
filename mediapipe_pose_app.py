@@ -807,7 +807,7 @@ st.markdown(
     f"""
     <hr/>
     <div style='color:{GRAY_900}; opacity:0.8;'>
-      <small>© Pose Overlay • Built with MediaPipe + OpenCV + Streamlit</small>
+      <small>© Unity Move Physical Therapy Wellness PLLC • Built with MediaPipe + OpenCV + Streamlit</small>
     </div>
     """,
     unsafe_allow_html=True,
